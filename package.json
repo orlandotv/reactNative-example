@@ -1,0 +1,26 @@
+{
+  "name": "react-native-example",
+  "version": "1.0.0",
+  "description": "little example for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "tutorial",
+    "example"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-react": "^6.8.0",
+    "react-native": "^0.39.2",
+    "react-native-swipeout": "^2.0.12",
+    "redux": "^3.6.0"
+  }
+}
